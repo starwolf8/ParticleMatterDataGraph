@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_options_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_options_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_menu_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_menu_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_multiline_chart.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_multiline_chart.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_options_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_options_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_multiline_chart_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_multiline_chart_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_layer_background_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-mdpi/ic_layer_background_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_layer_background_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-hdpi/ic_layer_background_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable_shape_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/drawable/shape_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable_custom_button_pressed.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/drawable/custom_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_menu_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_menu_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_layer_background_search.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_layer_background_search.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_layer_background_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-ldpi/ic_layer_background_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_menu_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_menu_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_layer_foreground_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_layer_foreground_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_menu_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_menu_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_layer_background_options.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_layer_background_options.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_layer_background_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-mdpi/ic_layer_background_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_layer_foreground_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_layer_foreground_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_menu_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable_back.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_menu_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_layer_foreground_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_layer_foreground_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_menu_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_multiline_chart_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_multiline_chart_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_menu_search_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_menu_search_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/menu_menu_activity_actions.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/menu/menu_activity_actions.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_layer_background_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-mdpi/ic_layer_background_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_layer_background_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-hdpi/ic_layer_background_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_options_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_options_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_layer_background_multiline_chart.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_layer_background_multiline_chart.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_layer_background_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-ldpi/ic_layer_background_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_layer_background_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_layer_background_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_layer_background_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_layer_background_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_layer_foreground_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_layer_foreground_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_menu_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_menu_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_menu_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_menu_background.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_background.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_layer_foreground_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_layer_foreground_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_layer_foreground_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_layer_foreground_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/layout_item_bluetooth_device.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/layout/item_bluetooth_device.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_layer_background_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_layer_background_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_layer_background_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_layer_background_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_layer_background_menu.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_layer_background_menu.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_layer_background_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_layer_background_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_layer_background_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_layer_background_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_layer_foreground_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_layer_foreground_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_layer_foreground_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_layer_foreground_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_options_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_options_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable_edittext_background.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_layer_background_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-mdpi/ic_layer_background_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_layer_background_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-ldpi/ic_layer_background_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_options_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_options_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_menu_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_layer_foreground_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_layer_foreground_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_layer_background_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_layer_background_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable_custom_button.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/drawable/custom_button.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_layer_foreground_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_layer_foreground_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_menu_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_menu_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/layout_bluetooth_list_item_layout.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/layout/bluetooth_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_menu_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_menu_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_layer_foreground_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_layer_foreground_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_layer_background_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_layer_background_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_layer_background_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_layer_background_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_layer_foreground_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_layer_foreground_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable_custom_button_focused.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/drawable/custom_button_focused.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_layer_foreground_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_layer_foreground_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_multiline_chart_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_multiline_chart_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_options_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_options_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_menu_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_menu_search.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_menu_search.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_multiline_chart_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_multiline_chart_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_menu_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_search_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_search_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_layer_foreground_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_layer_foreground_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_menu_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_menu_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_menu_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_menu_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_layer_foreground_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_layer_foreground_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_name_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_name_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_layer_background_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_layer_background_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_menu_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_menu_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_menu.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_menu.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_layer_background_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-hdpi/ic_layer_background_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_options.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_options.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_menu.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_menu.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_layer_foreground_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_layer_foreground_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_menu_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_menu_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_multiline_chart_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_multiline_chart_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_name_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_name_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_layer_background_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_layer_background_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_search.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_search.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_menu_foreground.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_menu_foreground.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_menu_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-hdpi/ic_menu_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_name_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_name_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_layer_foreground_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_layer_foreground_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_layer_background_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-hdpi/ic_layer_background_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_layer_background_multiline_chart.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_layer_background_multiline_chart.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_name_search_round.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxhdpi/ic_name_search_round.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_layer_foreground_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xxxhdpi/ic_layer_foreground_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_layer_foreground_menu.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_layer_foreground_menu.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_menu_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_name_multiline_chart_round.xml.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-anydpi-v26/ic_name_multiline_chart_round.xml"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_layer_foreground_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_layer_foreground_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_layer_background_options.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/generated/res/pngs/debug/drawable-ldpi/ic_layer_background_options.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_name_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-mdpi/ic_name_search.png"
+    },
+    {
+        "merged": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_menu_search.png.flat",
+        "source": "/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/res/mipmap-xhdpi/ic_menu_search.png"
+    }
+]

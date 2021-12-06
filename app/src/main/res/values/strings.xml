@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ParticleMatterDataGraph</string>
+    <string name="search">Search</string>
+    <string name="update">Update</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_address">Device Address</string>
+    <string name="radiobuttonAllData">All Data</string>
+    <string name="radiobutton_ugm3">ug/m3 Data</string>
+    <string name="radiobutton_ugm3_aed">ug/m3 Atm. Env. Data</string>
+    <string name="radiobutton_umL">um/0.1 L Data</string>
+    <string name="cancel">cancel</string>
+    <string name="discover">Discover</string>
+    <string name="raw_data">Raw Data</string>
+    <string name="discovered_devices">Discovered Devices</string>
+    <string name="action_search">Search</string>
+    <string name="action_compose">Compose</string>
+    <string name="title_dialog_pairedDevices">Paired Devices</string>
+    <string name="ok">Ok</string>
+</resources>

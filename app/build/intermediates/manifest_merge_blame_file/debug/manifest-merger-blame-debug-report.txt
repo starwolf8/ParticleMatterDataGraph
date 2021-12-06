@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.reyes.particlematterdatagraph"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:5:5-68
+11-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:6:5-74
+12-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:6:22-71
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:7:22-78
+14
+15    <application
+15-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:9:5-26:19
+16        android:allowBackup="true"
+16-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+17-->[com.android.support:support-compat:28.0.0] /Users/jesusreyes/.gradle/caches/transforms-2/files-2.1/612ef6e72b01f8d0ff3b0e7734e71386/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_layer_foreground_multiline_chart"
+19-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:11:9-67
+20        android:label="@string/app_name"
+20-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_layer_foreground_multiline_chart"
+21-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:13:9-72
+22        android:supportsRtl="true"
+22-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:15:9-40
+25        <activity
+25-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:17:9-25:20
+26            android:name="com.example.reyes.particlematterdatagraph.MainActivity"
+26-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:17:19-47
+27            android:configChanges="orientation"
+27-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:18:13-48
+28            android:screenOrientation="landscape" >
+28-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:19:13-50
+29            <intent-filter>
+29-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:21:17-69
+30-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:23:17-77
+32-->/Users/jesusreyes/Developer/projects/android-studio/ParticleMatterDataGraph/app/src/main/AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>
