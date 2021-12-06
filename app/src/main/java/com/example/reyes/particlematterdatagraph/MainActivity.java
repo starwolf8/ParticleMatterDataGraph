@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     private SearchBluetoothDevices bt;
     private String[] boundDeviceNames = null;
-    private ArrayList<BluetoothDevice> pairedDevices = new ArrayList<>();
+    private ArrayList<BluetoothDevice> discoveredDevices = new ArrayList<>();
     private BluetoothAdapter mBluetoothAdapter;
     private BluetoothDeviceAdapter mNewDevicesArrayAdapter;
     private BluetoothDevice device;
@@ -129,13 +129,13 @@ public class MainActivity extends AppCompatActivity {
                 if (action.equals(BluetoothDevice.ACTION_FOUND)) {
                     device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
                     if (device.getBondState() != BluetoothDevice.BOND_BONDED) {
-                        pairedDevices.add(device);
+                        discoveredDevices.add(device);
 
                     }
                 } else if (action.equals(BluetoothAdapter.ACTION_DISCOVERY_FINISHED)) {
                     mNewDevicesArrayAdapter.getCount();
                 }
-                mNewDevicesArrayAdapter = new BluetoothDeviceAdapter(MainActivity.this, pairedDevices);
+                mNewDevicesArrayAdapter = new BluetoothDeviceAdapter(MainActivity.this, discoveredDevices);
                 //Attach the adapter to a ListView
                 ListView btListView = findViewById(R.id.listView_discoveredDevices);
                 btListView.setAdapter(mNewDevicesArrayAdapter);
@@ -251,18 +251,6 @@ public class MainActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int which ) {
                         // The 'which' argument contains the index position
                         // Connect to the bluetooth device
-                        device = pairedDevices.get(which);
-                        dialog.dismiss();
-
-
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                Toast.makeText(MainActivity.this, "Device Name: " + device.getName() + "\n" + "Device Address: " + device.getAddress(), Toast.LENGTH_SHORT).show();
-                            }
-                        });
-                        ct = new ConnectThread(device, mBluetoothAdapter, mHandler);
-                        ct.start();
 
                     }
                 }).setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
@@ -289,7 +277,7 @@ public class MainActivity extends AppCompatActivity {
         // reference - https://stackoverflow.com/questions/37638665/broadcastreceiver-for-bluetooth-device-discovery-works-on-one-device-but-not-on
         final int CODE = 5; // app defined constant used for onRequestPermissionsResult
 
-        pairedDevices.clear();
+        discoveredDevices.clear();
 
         String[] permissionsToRequest =
                 {
@@ -328,7 +316,7 @@ public class MainActivity extends AppCompatActivity {
         mBluetoothAdapter.startDiscovery();
 
         // Create the adapter to convert to array of views
-        BluetoothDeviceAdapter btdAdapter = new BluetoothDeviceAdapter(this, pairedDevices);
+        BluetoothDeviceAdapter btdAdapter = new BluetoothDeviceAdapter(this, discoveredDevices);
 
         //Attach the adapter to a ListView
         ListView btListView = findViewById(R.id.listView_discoveredDevices);
@@ -349,18 +337,10 @@ public class MainActivity extends AppCompatActivity {
                 && mBluetoothAdapter.getProfileConnectionState(BluetoothProfile.A2DP) == BluetoothProfile.STATE_CONNECTED;
     }
 
-    //@Override
-    //public void onDestroy() {
-        //if(isBluetoothConnected()) {
-        //    unregisterReceiver(blueToothReceiver);
-        //}
-     //   super.onDestroy();
-    //}
-
 
     public void readBtData(int index) {
 
-        device = pairedDevices.get(index);
+        device = discoveredDevices.get(index);
 
         runOnUiThread(new Runnable() {
             @Override
